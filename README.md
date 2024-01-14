@@ -17,3 +17,7 @@ cd BackGround-Changer
 npm i
 #to install the node_module folder
 ```
+# Android Studio part {Main(Important)}
++ ``Now you need to open the android folder into the android studio and let the gradel build be completed after that the indexing will start so please don't close the android studio as your gradel build is over the app may crash``
++ As the gradel build and indexing is over you can close the android studio
+
