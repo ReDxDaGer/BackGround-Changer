@@ -24,5 +24,5 @@ npm i
 ```bash
 npm start
 ```
-
-
+# Why I Created This App ?
+I developed this app to provide a seamless and user-friendly solution for customizing photo backgrounds. With just a few taps, users can explore a wide range of possibilities and add vibrant hues to their images, enhancing their creative expression effortlessly. Enjoy transforming your visuals with our Background Color Changer!
