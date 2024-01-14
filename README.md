@@ -18,8 +18,9 @@ npm i
 #to install the node_module folder
 ```
 # Android Studio part {Main(Important)}
-+ ``Now you need to open the android folder into the android studio and let the gradel build be completed after that the indexing will start so please don't close the android studio as your gradel build is over the app may crash``
-+ As the gradel build and indexing is over you can close the android studio
+- Open the **` android `** folder in Android Studio.
+- Allow Gradle build to complete. After completion, indexing will start. Do not close Android Studio during this process, as closing it prematurely may lead to app crashes.
+- Once Gradle build and indexing are complete, you can close Android Studio.
 # Run the APP
 ```bash
 npm start
